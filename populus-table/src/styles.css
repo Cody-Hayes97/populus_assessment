@@ -1,0 +1,59 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #1c9c90;
+  }
+  
+  table {
+    width: 100%;
+    table-layout: fixed;
+    border: 1px solid black;
+  }
+  
+  tbody {
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 1px solid black;
+  }
+  
+  tr {
+    width: 100%;
+    border: 1px solid black;
+  }
+  
+  th,
+  td {
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    padding: 20px 15px;
+    text-align: left;
+    font-weight: 500;
+    font-size: 17px;
+    color: black;
+  }
+
+  input{
+    width: 30%;
+    height: 25px;
+    display: flex;
+    margin: auto;
+    margin-top: 1%;
+    border-radius: 1%;
+    border: none;
+   }
+
+
+  .header {
+    font-size: 20px;
+    font-weight: 600;
+    background-color: white;
+  }
+
+  .table-container{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+  }
+
+ 
+  
